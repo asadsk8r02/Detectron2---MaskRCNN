@@ -6,7 +6,6 @@ import csv
 import json
 from PIL import Image
 
-
 class FileCleaner:
     def __init__(self, annotation_dir):
         self.annotation_dir = annotation_dir
